@@ -24,6 +24,6 @@ Feel free to reach out for collaborations, discussions, or just to say hi! You c
 
 ## 📈 GitHub Stats
 
-[![Piyusssshh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/piyusssshh)
+[![Piyusssshh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyusssshh&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/piyusssshh)
 
 Thank you for visiting my GitHub profile! 🚀
