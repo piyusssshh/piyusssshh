@@ -16,7 +16,7 @@ I'm a passionate software developer and UI/UX designer at Walkover, specializing
 
 ## 🌱 Learning & Growing
 
-I am always on the lookout for new technologies and design trends. Currently, I'm exploring [mention any technology or tool you are learning] to expand my skill set.
+I am always on the lookout for new technologies and design trends. Currently, I'm exploring Svelte and TailwindCSS to expand my skill set.
 
 ## 💬 Let's Connect
 
