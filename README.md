@@ -22,8 +22,5 @@ I am always on the lookout for new technologies and design trends. Currently, I'
 
 Feel free to reach out for collaborations, discussions, or just to say hi! You can find me on [LinkedIn](https://in.linkedin.com/in/piyushsawaye),
 
-## 📈 GitHub Stats
-
-[![Piyusssshh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyusssshh&show_icons=true&count_private=true&hide=contribs&theme=radical)](https://github.com/piyusssshh)
 
 Thank you for visiting my GitHub profile! 🚀
